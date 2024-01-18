@@ -1,0 +1,1 @@
+Additionally further module added in the coarse of learning HTML.In this I have learned ,how to use <hr/> viz horizontal rule tag and the <br/> break tag so that web page can be created in letter format by using horizontal rule tag and break tag which can break the line and text can be seen in the next line.
